@@ -16,5 +16,6 @@ let package = Package(
             name: "EmptyDataSet",
             dependencies: [],
             path: "EmptyDataSet-Swift/Sources"),
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
